@@ -10,7 +10,7 @@ The **Excel Debugging Tool** is a macro developed to streamline and standardize 
 
 ## ▶️ How to Use It
 1. Download the original Excel file with purchase order data.
-2. Open it alongside the macro-enabled file (`Depurator_v3.xlsm`).
+2. Open it alongside the macro-enabled file (`Macro - Excel Debugging tool _v3.xlsm`).
 3. Press **Ctrl + D** to run the macro.
 4. Review and save the cleaned file.
 
