@@ -16,4 +16,4 @@ The **Excel Debugging Tool** is a macro developed to streamline and standardize 
 
 > ⚠️ **Note:** This tool is designed for files with a specific structure. Using it on other formats may cause errors.
 
-If you encounter issues or have questions, please contact the designated support resource.
+If you encounter issues or have questions, please reach out to me.
