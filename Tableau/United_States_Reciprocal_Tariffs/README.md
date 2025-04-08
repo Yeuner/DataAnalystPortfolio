@@ -1,4 +1,7 @@
 # 🇺🇸 U.S. Reciprocal Tariffs – Tableau Dashboard
+![Dashboard Preview](https://github.com/Yeuner/DataAnalystPortfolio/blob/main/Tableau/United_States_Reciprocal_Tariffs/United_States_Reciprocal_Tariffs.png?raw=true)
+
+
 🔗 [**Live Tableau Dashboard**](https://public.tableau.com/views/United_States_Reciprocal_Tariffs/United_States_Reciprocal_Tariffs?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
@@ -12,7 +15,7 @@ The tariffs were promoted as a way to **eliminate the U.S. trade deficit** and *
 
 ## 🎯 Purpose of This Project
 
-This dashboard was inspired by the BBC article mentioned above. After reading it, analyst **Arazi** wanted to **visualize the data** behind the claims being made.
+This dashboard was inspired by the BBC article mentioned above. After reading it, I wanted to **visualize the data** behind the claims being made.
 
 The purpose of this project is **not to support or oppose** U.S. trade policy. Instead, it provides:
 - A **neutral, data-driven view** of bilateral tariff relationships.
