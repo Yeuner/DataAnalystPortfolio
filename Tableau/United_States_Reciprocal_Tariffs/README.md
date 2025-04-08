@@ -5,7 +5,7 @@
 🔗 [**Live Tableau Dashboard**](https://public.tableau.com/views/United_States_Reciprocal_Tariffs/United_States_Reciprocal_Tariffs?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-In early 2025, following a new round of sweeping trade policy announcements, former President Donald Trump introduced **“reciprocal tariffs”** — minimum 10% tariffs on nearly all imports, with significantly higher rates (up to 104%) for certain countries like China, Cambodia, Vietnam, and others.
+In early 2025, following a new round of sweeping trade policy announcements, former President Donald Trump introduced **“reciprocal tariffs”** minimum 10% tariffs on nearly all imports, with significantly higher rates (up to 104%) for certain countries like China, Cambodia, Vietnam, and others.
 
 The tariffs were promoted as a way to **eliminate the U.S. trade deficit** and **punish countries considered “worst offenders.”** However, many international leaders, economists, and media outlets — including the **BBC** — raised questions about how these tariffs were calculated and what their real-world impact might be.
 
@@ -53,7 +53,7 @@ The dataset includes:
 ## 🧠 Insights Uncovered
 
 - Countries like **Cambodia, Vietnam, Laos, Lesotho** charge significantly higher tariffs to the U.S.
-- Some countries — like **the U.K., Australia, Chile, and Singapore** — show more balanced trade relationships.
+- Some countries like **the U.K., Australia, Chile, and Singapore** show more balanced trade relationships.
 - The visualization helps users explore whether the concept of "reciprocity" aligns with the data.
 
 ---
