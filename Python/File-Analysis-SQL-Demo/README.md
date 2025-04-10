@@ -1,4 +1,4 @@
-#**File Analysis and SQL Query Practice — Python - Streamlit Demo App**
+# **File Analysis and SQL Query Practice — Python - Streamlit Demo App**
 
 [![Live App](https://img.shields.io/badge/LIVE%20APP-CLICK%20TO%20VIEW-green?style=for-the-badge)](https://file-analysis-sql-demo-gv4tpcljrnpkmmr8kvo6ui.streamlit.app/)
 
