@@ -2,6 +2,7 @@
 
 Welcome to my **Data Analytics Portfolio**!  
 This repository showcases a collection of my projects using **SQL**, **Python**, **Tableau**, and **Excel**.
+
 Projects Preview:
 
 ![Project Previews](https://github.com/Yeuner/DataAnalystPortfolio/blob/main/Tableau/United_States_Reciprocal_Tariffs/United_States_Reciprocal_Tariffs.png?raw=true)
