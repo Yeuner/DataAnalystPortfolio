@@ -1,5 +1,5 @@
 
-# 📊 Technical Skills Showcase — Streamlit Demo App
+# Technical Skills Showcase — Streamlit Demo App
 
 [![Streamlit App](https://img.shields.io/badge/Live%20App-Click%20to%20View-brightgreen?style=for-the-badge&logo=streamlit)](https://margin-price-data-demo-app-dah8v5gx8khbx4xtzopbxd.streamlit.app/)
 
