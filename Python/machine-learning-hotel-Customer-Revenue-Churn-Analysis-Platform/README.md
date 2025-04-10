@@ -1,4 +1,4 @@
-# 📊 Customer Revenue & Churn Analysis Platform
+# Customer Revenue & Churn Analysis Platform
 
 
 [![Live App](https://img.shields.io/badge/LIVE%20APP-CLICK%20TO%20VIEW-green?style=for-the-badge)](https://machine-learning-hotel-customer-revenue-churn-analysis-platform.streamlit.app/)
