@@ -8,35 +8,35 @@ It allows users to upload datasets, run SQL queries, and explore data dynamicall
 
 ---
 
-## 🎯 **Why This Project?**
+##  **Why This Project?**
 
 As part of my journey to strengthen my expertise in **data analysis** and **SQL querying**, I developed this application to:
 
-- ✅ **Practice SQL on Real Datasets:** Work with multiple file formats and execute SQL queries dynamically.  
-- 🎯 **Explore Python Libraries:** Use `pandas`, `sqlite3`, and other powerful libraries to manipulate and analyze data.  
-- 📊 **Simulate Scenarios:** Create an environment where users can apply SQL commands to analyze simple datasets.  
+-  **Practice SQL on Real Datasets:** Work with multiple file formats and execute SQL queries dynamically.  
+-  **Explore Python Libraries:** Use `pandas`, `sqlite3`, and other powerful libraries to manipulate and analyze data.  
+-  **Simulate Scenarios:** Create an environment where users can apply SQL commands to analyze simple datasets.  
 
 ---
 
-## 🔥 **Key Features**
+##  **Key Features**
 
 The app showcases the following core functionalities:
 
-- 📚 **Data Analysis** – Using `pandas` for efficient data manipulation.  
-- 📈 **SQL Query Execution** – Leveraging `SQLite` for in-memory SQL query processing.  
-- 📊 **Dataset Visualization** – Displaying query results dynamically with interactive tables.  
-- 💾 **Result Exporting** – Allowing users to download query results in `CSV` format.  
-- 🔎 **File Handling** – Supporting multiple formats such as `CSV`, `Excel`, `Parquet`, and `JSON`.
+-  **Data Analysis** – Using `pandas` for efficient data manipulation.  
+-  **SQL Query Execution** – Leveraging `SQLite` for in-memory SQL query processing.  
+-  **Dataset Visualization** – Displaying query results dynamically with interactive tables.  
+-  **Result Exporting** – Allowing users to download query results in `CSV` format.  
+-  **File Handling** – Supporting multiple formats such as `CSV`, `Excel`, `Parquet`, and `JSON`.
 
 ---
 
-## 📝 **What This App Does**
+##  **What This App Does**
 
-### ✅ **1. Upload or Select Files**
+###  **1. Upload or Select Files**
 - Upload a dataset (`CSV`, `Excel`, `Parquet`, or `JSON`) or choose a predefined file from the repository.
 - The application automatically detects column names and data types.
 
-### 📝 **2. SQL Query Execution**
+###  **2. SQL Query Execution**
 - Write and execute SQL queries directly on the loaded dataset.
 - Perform basic operations such as:
     ```sql
@@ -46,13 +46,13 @@ The app showcases the following core functionalities:
     SELECT title, release_year FROM data WHERE type = 'Movie';
     ```
 
-### 📊 **3. View and Export Results**
+###  **3. View and Export Results**
 - Visualize query results dynamically.
 - Export results as a `CSV` file for further analysis.
 
 ---
 
-## 🛠️ **Technologies Used**
+##  **Technologies Used**
 
 This project leverages several powerful Python libraries:
 
@@ -66,7 +66,7 @@ This project leverages several powerful Python libraries:
 
 ---
 
-## 📚 **Technical Highlights**
+##  **Technical Highlights**
 
 ⚡️ **Streamlit:** Builds a modern and interactive interface to upload files, run queries, and display results.  
 ⚡️ **SQLite (in-git initmemory):** Allows SQL query execution directly on the loaded data.  
@@ -75,7 +75,7 @@ This project leverages several powerful Python libraries:
 
 ---
 
-## 📂 How to Run
+##  How to Run
 
 1. Clone this repository:
    ```bash
@@ -98,4 +98,5 @@ This project leverages several powerful Python libraries:
    ```bash
    streamlit run main.py
    ```
+
 
