@@ -56,7 +56,7 @@ If you don’t upload a file, the app will use `demo_logistics_data.csv` located
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Streamlit**: UI and app engine
 - **pandas**: Data manipulation
@@ -71,7 +71,8 @@ This project was created to **practice and demonstrate key technical skills** in
 
 ---
 
-## 📬 Feedback & Contributions
+##  Feedback & Contributions
 
 Feel free to fork the repo, try it out, and share feedback or improvements!
+
 
