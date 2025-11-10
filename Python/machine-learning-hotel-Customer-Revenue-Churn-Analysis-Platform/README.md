@@ -95,7 +95,7 @@ Go to `http://localhost:8501/` in your browser.
 
 ---
 
-## 📥 **Input Data Requirements**
+##  **Input Data Requirements**
 
 The application processes data from an Excel file named `hotel_customer_data.xlsx` located in the `data` folder. The file should contain the following columns:
 
@@ -154,5 +154,6 @@ This project was built to demonstrate my ability to:
 For any inquiries, please contact **[yeuner13@gmail.com](mailto:yeuner13@gmail.com)**.
 
 Happy analyzing! 
+
 
 
