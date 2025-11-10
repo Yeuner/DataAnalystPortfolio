@@ -9,15 +9,15 @@ This project is a **Streamlit-based data analysis and visualization platform** d
 
 ---
 
-## 🎯 **Project Objectives**
+##  **Project Objectives**
 
 This application demonstrates the capability to:
 
-✅ Analyze and visualize data from Excel files dynamically.  
-✅ Provide insightful and interactive data dashboards for business users.  
-✅ Predict customer churn with a machine learning model.  
-✅ Enable self-service analytics through a user-friendly interface.  
-✅ Export processed data for further analysis.
+ Analyze and visualize data from Excel files dynamically.  
+ Provide insightful and interactive data dashboards for business users.  
+ Predict customer churn with a machine learning model.  
+ Enable self-service analytics through a user-friendly interface.  
+ Export processed data for further analysis.
 
 The project is built to showcase expertise in:  
 - **Python & Pandas:** Data manipulation and transformation.  
@@ -28,7 +28,7 @@ The project is built to showcase expertise in:
 
 ---
 
-## 📚 **Technical Overview**
+##  **Technical Overview**
 
 ### 1. **Data Pipeline**
 - Loads customer data from an Excel file located in the `data` folder.
@@ -55,7 +55,7 @@ The project is built to showcase expertise in:
 
 ---
 
-## 🚀 **How to Run the Application**
+##  **How to Run the Application**
 
 ### Prerequisites
 
@@ -108,7 +108,7 @@ The application processes data from an Excel file named `hotel_customer_data.xls
 
 ---
 
-## 📊 **How the Dashboards Are Generated**
+##  **How the Dashboards Are Generated**
 
 ### 1. **Revenue Analysis**
 - Aggregates and visualizes total revenue by region using Plotly.
@@ -130,13 +130,13 @@ The application processes data from an Excel file named `hotel_customer_data.xls
 
 ---
 
-## 📦 **Exporting Processed Data**
+##  **Exporting Processed Data**
 
 Users can download the processed data as a CSV file using the **Download Processed Data** button provided within the app.
 
 ---
 
-## ⚡️ **Customization**
+##  **Customization**
 
 This platform can be customized to:
 - Include additional data sources.
@@ -145,7 +145,7 @@ This platform can be customized to:
 
 ---
 
-## 📝 **About This Project**
+##  **About This Project**
 
 This project was built to demonstrate my ability to:
 - Develop customized web applications for **data visualization** from Excel files.
@@ -153,5 +153,6 @@ This project was built to demonstrate my ability to:
 
 For any inquiries, please contact **[yeuner13@gmail.com](mailto:yeuner13@gmail.com)**.
 
-Happy analyzing! 🎉
+Happy analyzing! 
+
 
