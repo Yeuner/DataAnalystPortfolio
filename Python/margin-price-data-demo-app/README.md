@@ -5,15 +5,15 @@
 
 This Streamlit application is a hands-on demo designed to showcase core technical skills related to data analysis, pricing logic, SQL querying, and visualization. It simulates a simple real-world logistics dataset analysis workflow and serves as a personal project to practice and demonstrate the following:
 
-- 📊 **Data Analysis** with pandas
-- 💸 **Pricing & Profitability Calculations**
-- 🧠 **SQL Query Execution** using SQLite
-- 📈 **Visualization** using matplotlib
-- 📥 **CSV Handling** and dynamic input management
+-  **Data Analysis** with pandas
+-  **Pricing & Profitability Calculations**
+-  **SQL Query Execution** using SQLite
+-  **Visualization** using matplotlib
+-  **CSV Handling** and dynamic input management
 
 ---
 
-## 🚀 What This App Does
+##  What This App Does
 
 1. **Upload Data**: Accepts a logistics-style CSV file or uses a sample dataset (`demo_logistics_data.csv`).
 2. **Preview Data**: Displays the first few rows and gives a shape + null count summary.
@@ -24,7 +24,7 @@ This Streamlit application is a hands-on demo designed to showcase core technica
 
 ---
 
-## 📂 How to Run
+##  How to Run
 
 1. Clone this repository:
    ```bash
@@ -50,7 +50,7 @@ This Streamlit application is a hands-on demo designed to showcase core technica
 
 ---
 
-## 📦 Sample Data
+##  Sample Data
 
 If you don’t upload a file, the app will use `demo_logistics_data.csv` located in the same folder. Make sure it’s present in the root directory.
 
@@ -65,7 +65,7 @@ If you don’t upload a file, the app will use `demo_logistics_data.csv` located
 
 ---
 
-## 📚 Why This Project?
+##  Why This Project?
 
 This project was created to **practice and demonstrate key technical skills** in a compact and professional way as part of my personal portfolio.
 
@@ -74,3 +74,4 @@ This project was created to **practice and demonstrate key technical skills** in
 ## 📬 Feedback & Contributions
 
 Feel free to fork the repo, try it out, and share feedback or improvements!
+
